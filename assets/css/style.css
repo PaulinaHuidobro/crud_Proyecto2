@@ -58,7 +58,7 @@ body{
 /* --- Sección 4 Footer  ---  */
 
 .footer{
-    background-color:var(--primary-main);
+    background-color: #98db2d;
     padding: 50px 80px;
     color:var(--secondary-main);
 }
